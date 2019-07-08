@@ -1,0 +1,11 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "ts": true,
+  "mongodb": "mongodb+srv://koji:K42zKIhdPyAj4r0c@cluster0-eegjb.mongodb.net/test?retryWrites=true&w=majority"
+}
